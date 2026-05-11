@@ -1,4 +1,4 @@
-# vehicle-speed-monitoring--MiniProject-
+# vehicle-speed-monitoring-MiniProject
 # 🐘 Vehicle Speed Monitoring and Wildlife Protection System
 
 > A smart embedded system to monitor vehicle speed in forest road areas and trigger alerts to protect wildlife from road accidents.
